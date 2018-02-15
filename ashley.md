@@ -1,2 +1,18 @@
 origin	https://github.com/nyu-ossd-s18/git_team_rabbit.git (fetch)
 origin	https://github.com/nyu-ossd-s18/git_team_rabbit.git (push)
+
+myfork	https://github.com/ashley-hu/git_team_rabbit.git (fetch)
+myfork	https://github.com/ashley-hu/git_team_rabbit.git (push)
+origin	https://github.com/nyu-ossd-s18/git_team_rabbit.git (fetch)
+origin	https://github.com/nyu-ossd-s18/git_team_rabbit.git (push)
+
+Kenneth	https://github.com/PhrydRhys/git_team_rabbit.git (fetch)
+Kenneth	https://github.com/PhrydRhys/git_team_rabbit.git (push)
+Matthew	https://github.com/Matthew-Herman/git_team_rabbit.git (push)
+Matthew	https://github.com/Matthew-Herman/git_team_rabbit.git (fetch)
+Ola	https://github.com/oekonomi/git_team_rabbit.git (fetch)
+Ola	https://github.com/oekonomi/git_team_rabbit.git (push)
+myfork	https://github.com/ashley-hu/git_team_rabbit.git (fetch)
+myfork	https://github.com/ashley-hu/git_team_rabbit.git (push)
+origin	https://github.com/nyu-ossd-s18/git_team_rabbit.git (push)
+origin	https://github.com/nyu-ossd-s18/git_team_rabbit.git (fetch)
